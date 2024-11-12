@@ -2075,7 +2075,7 @@ var rr = "framer-1hhCh",
                           className: "framer-1mef9l1",
                           children: [
                             t(ye, {
-                              href: "https://pump.fun/bWLK3YFvEoLEMrpQUaorXoUc3BVFmCT3aDwM4zupump",
+                              href: "https://pump.fun/8fc9oYwVY2eww42SbAmNuJYvCdRtzfxsCv14xiDpump",
                               children: t(W, {
                                 breakpoint: o,
                                 overrides: {
@@ -2285,7 +2285,7 @@ var rr = "framer-1hhCh",
                               }),
                             }),
                             t(ye, {
-                              href: "https://t.me/MagicCoinFun",
+                              href: "https://t.me/Magic7777Coin",
                               children: t(W, {
                                 breakpoint: o,
                                 overrides: {
@@ -2356,7 +2356,7 @@ var rr = "framer-1hhCh",
                               }),
                             }),
                             t(ye, {
-                              href: "https://x.com/MagicCoinFun",
+                              href: "https://x.com/Magic7777Coin",
                               openInNewTab: !0,
                               children: t(W, {
                                 breakpoint: o,
@@ -2539,14 +2539,14 @@ var rr = "framer-1hhCh",
                               "--framer-text-color": "rgb(255, 255, 255)",
                             },
                             children: t(ye, {
-                              href: "https://pump.fun/bWLK3YFvEoLEMrpQUaorXoUc3BVFmCT3aDwM4zupump",
+                              href: "https://pump.fun/8fc9oYwVY2eww42SbAmNuJYvCdRtzfxsCv14xiDpump",
                               openInNewTab: !0,
                               smoothScroll: !1,
                               children: t("a", {
                                 className: "framer-styles-preset-pcslo6",
                                 "data-styles-preset": "wdlj3MR4a",
                                 children:
-                                  "bWLK3YFvEoLEMrpQUaorXoUc3BVFmCT3aDwM4zupump",
+                                  "8fc9oYwVY2eww42SbAmNuJYvCdRtzfxsCv14xiDpump",
                               }),
                             }),
                           }),
