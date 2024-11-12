@@ -2285,7 +2285,7 @@ var rr = "framer-1hhCh",
                               }),
                             }),
                             t(ye, {
-                              href: "https://t.me/Magic7777Coin",
+                              href: "https://t.me/Magic777Coin",
                               children: t(W, {
                                 breakpoint: o,
                                 overrides: {
