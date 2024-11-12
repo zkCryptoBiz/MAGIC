@@ -2075,7 +2075,7 @@ var rr = "framer-1hhCh",
                           className: "framer-1mef9l1",
                           children: [
                             t(ye, {
-                              href: "https://pump.fun/8fc9oYwVY2eww42SbAmNuJYvCdRtzfxsCv14xiDpump",
+                              href: "https://pump.fun/QA41UKi9nUL2ZBMuEnfm2UinVKS1WSoNN9Z8fxfpump",
                               children: t(W, {
                                 breakpoint: o,
                                 overrides: {
@@ -2539,14 +2539,14 @@ var rr = "framer-1hhCh",
                               "--framer-text-color": "rgb(255, 255, 255)",
                             },
                             children: t(ye, {
-                              href: "https://pump.fun/8fc9oYwVY2eww42SbAmNuJYvCdRtzfxsCv14xiDpump",
+                              href: "https://pump.fun/QA41UKi9nUL2ZBMuEnfm2UinVKS1WSoNN9Z8fxfpump",
                               openInNewTab: !0,
                               smoothScroll: !1,
                               children: t("a", {
                                 className: "framer-styles-preset-pcslo6",
                                 "data-styles-preset": "wdlj3MR4a",
                                 children:
-                                  "8fc9oYwVY2eww42SbAmNuJYvCdRtzfxsCv14xiDpump",
+                                  "QA41UKi9nUL2ZBMuEnfm2UinVKS1WSoNN9Z8fxfpump",
                               }),
                             }),
                           }),
